@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36453#La-guardia-blancanovela-hist-rica-escrita-en-ingl-s
 gutenberg_issued: '2011-06-17'
 gutenberg_type: Text
 identifiers:
